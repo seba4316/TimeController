@@ -1,0 +1,10 @@
+Messages:
+    Errors:
+        Missing Permissions: "&cYou need the permission &6{PERMISSION}&c."
+        Unexpected: "&cAn error occoured, please report it to an admin.{AH}The world time is &6{WORLDTIME}&c."
+        Help:
+            Missing Page: "&cThe page {PAGE} does not exist"
+    Clock Received: "&3You received &4&n&lTHE&3 Time Controller &7Clock"
+    Time Advanced: "&3The time has been advanced to &6{NOW}"
+    Time Blocked: "&3The time has been blocked in world &6{WORLD}"
+    Time Unblocked: "&3The time has been unblocked in world &6{WORLD}"

@@ -1,0 +1,6 @@
+name: TimeController
+version: 0.1
+main: it.Seba4316.TimeController.Main
+description: Control the time of your server
+author: [Seba4316]
+depends: []
